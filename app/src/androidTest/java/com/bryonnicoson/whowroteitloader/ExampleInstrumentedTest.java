@@ -1,4 +1,4 @@
-package com.bryonnicoson.whowroteit;
+package com.bryonnicoson.whowroteitloader;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.bryonnicoson.whowroteit", appContext.getPackageName());
+        assertEquals("com.bryonnicoson.whowroteitloader", appContext.getPackageName());
     }
 }

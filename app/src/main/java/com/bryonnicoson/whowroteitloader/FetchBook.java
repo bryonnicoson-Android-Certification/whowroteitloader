@@ -1,4 +1,4 @@
-package com.bryonnicoson.whowroteit;
+package com.bryonnicoson.whowroteitloader;
 
 import android.os.AsyncTask;
 import android.widget.TextView;
